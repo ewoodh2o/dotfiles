@@ -1,5 +1,5 @@
 # git autocomplete for branch names, etc
-source ~/dotfiles/git/git-completion.bash
+source ~/dotfiles/src/git/git-completion.bash
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"  # This loads RVM into a shell session.
 
