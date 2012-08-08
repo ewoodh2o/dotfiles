@@ -1,0 +1,4 @@
+export POW_DOMAINS=
+#   local,dev,elliott.pipe.vitrue.com
+export POW_TIMEOUT=14400
+export POW_WORKERS=3
