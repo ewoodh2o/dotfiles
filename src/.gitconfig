@@ -1,5 +1,5 @@
 [core]
-	editor = emacs
+	editor = /usr/local/Cellar/emacs/24.1/Emacs.app/Contents/MacOS/Emacs -nw -Q
 	excludesfile = /Users/elliott/.gitignore_global
 
 [user]
