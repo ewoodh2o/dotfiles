@@ -1,5 +1,5 @@
 [core]
-	editor = /usr/bin/emacs -Q
+	editor = emacs
 	excludesfile = /Users/elliott/.gitignore_global
 
 [user]
@@ -7,9 +7,3 @@
 	email = elliott@two-fish.com
 [github]
 	user = ewoodh2o
-[difftool "sourcetree"]
-	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-	path = 
-[mergetool "sourcetree"]
-	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
-	trustExitCode = true

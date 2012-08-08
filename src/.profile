@@ -9,3 +9,4 @@ export EDITOR=mate
 alias brake="bundle exec rake"
 alias be="bundle exec"
 alias bc="bundle exec rails c"
+alias emacs="/usr/local/Cellar/emacs/24.1/Emacs.app/Contents/MacOS/Emacs -nw -Q"
