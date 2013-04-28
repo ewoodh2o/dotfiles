@@ -5,6 +5,7 @@ source ~/dotfiles/src/git/git-completion.bash
 
 export MY_BUNDLER_ENV='dev'
 export EDITOR=mate
+export JRUBY_OPTS='--1.9'
 
 alias brake="bundle exec rake"
 alias be="bundle exec"
